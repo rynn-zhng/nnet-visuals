@@ -1,6 +1,6 @@
 # Neural Network Visualizer
 
-![T480s go brbrbr](./img/3522.png)
+![T480s go brbrbr](./Img/3522.png)
 
 
 ## Project Overview
