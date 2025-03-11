@@ -1,5 +1,8 @@
 # Neural Network Visualizer
 
+![T480s go brbrbr](./img/3522.png)
+
+
 ## Project Overview
 
 This project aims to enhance my understanding of Artificial Neural Networks (ANN) while integrating visuals to complement the growing prominence of Large Language Models (LLMs). The goal is to present the fundamentals of LLMs in a visual format, making them more accessible and easier to understand.
