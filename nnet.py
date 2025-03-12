@@ -70,7 +70,7 @@ class ANN:
             self.slayers[i] = np.zeros(i-1)
 
 
-fig = plt.figure(figsize=(10, 7))
+fig = plt.figure(figsize=(6.4, 3.6))  # 640/100 = 6.4, 360/100 = 3.6 (using the default DPI of 100)
 plots = [fig.add_subplot(2, 3, i) for i in range(1, 7)]
 
 ai = ANN(9, 3, epochs=100)

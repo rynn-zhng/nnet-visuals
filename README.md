@@ -1,13 +1,12 @@
 # Neural Network Visualizer
 
-![T480s go brbrbr](./Img/3522.png)
-
-
 ## Project Overview
 
 This project aims to enhance my understanding of Artificial Neural Networks (ANN) while integrating visuals to complement the growing prominence of Large Language Models (LLMs). The goal is to present the fundamentals of LLMs in a visual format, making them more accessible and easier to understand.
 
 The visualizer provides real-time contour plots of weight matrices as the neural network learns, offering an intuitive way to observe the learning process and weight adjustments during training.
+
+![T480s go brbrbr](./Img/3522.png)
 
 ## How It Works
 
